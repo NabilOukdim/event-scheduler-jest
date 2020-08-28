@@ -6,7 +6,7 @@ Basé sur le travail de Vincent Berthet
 ## Badge CI
 ![Node.js CI](https://github.com/NabilOukdim/event-scheduler-jest/workflows/Node.js%20CI/badge.svg)
 
-## Consignes
+## Consignes 
 
 * Cloner le repo
 * Installer les dépendances via npm
